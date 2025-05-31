@@ -15,7 +15,7 @@
 ### 📦 Установка
 
 ```bash
-git clone https://github.com/yourusername/streaming-chatbot.git
+git clone https://github.com/EsCande42/study_stream.git
 cd streaming-chatbot
 pip install -r requirements.txt
 ```
